@@ -1,0 +1,16 @@
+{
+  "name": "ことばポン",
+  "short_name": "ことばポン",
+  "description": "お題をヒントに、ひらがな4文字の言葉を当てるゲーム",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F3F9",
+  "theme_color": "#4F46E5",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
